@@ -6,7 +6,7 @@
 **Student Name:** Zaeem Khan  
 **Registration Number:** 25MEI10036  
 **Institution:** VIT Bhopal University  
-**Course:** Computer Science and Engineering  
+**Course:** CSE1021  
 **Submitted To:** Professor Sukumar  
 **Date:** November 22, 2025
 
@@ -116,7 +116,7 @@ Decrypted text: Zaeem Khan
 
 ### Flowchart
 
-![Program Flowchart](image.jpg)
+![Program Flowchart](https://github.com/Zaeemkhan03/Encryption-Decryption-Program/blob/main/ScreenShots/flowchart.png)
 
 The program follows this workflow:
 
@@ -277,13 +277,13 @@ END IF
 
 ### Code Implementation
 
-![Code Screenshot](image.jpg)
+![Code Screenshot](https://github.com/Zaeemkhan03/Encryption-Decryption-Program/blob/main/ScreenShots/Screenshot%202025-11-22%20200306.png)
 
 The screenshot shows the complete implementation of the Cipher class with encryption and decryption methods.
 
 ### Program Execution
 
-![Program Output](image.jpg)
+![Program Output](https://github.com/Zaeemkhan03/Encryption-Decryption-Program/blob/main/ScreenShots/Screenshot%202025-11-22%20200455.png)
 
 The screenshot demonstrates the program in action:
 - Input: "Zaeem Khan"
